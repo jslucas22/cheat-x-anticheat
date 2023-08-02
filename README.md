@@ -6,6 +6,7 @@ This repository houses the source code for a basic demonstration of a "cheat" so
 
 The project adopts a modular organization, with distinct directories for the cheat and the anticheat, both housed under the `src` directory.
 
+```plaintext
 📂 src/
 │
 ├─ 📂 cheat/
@@ -17,6 +18,7 @@ The project adopts a modular organization, with distinct directories for the che
     ├── 📂 include/
     │   └─ 📄 anticheat.h
     └─ 📄 anticheat.cpp
+```
 
 ## 🎮 Cheat Module
 
